@@ -8,9 +8,6 @@
 
 ### Módulos a serem estudados:
 
-
-- 5
-- 6
 - 7
 - 8
 - 9
